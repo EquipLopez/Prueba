@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.0.5)
+  - iOSDropDown (0.3.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - iOSDropDown
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSDropDown
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+
+PODFILE CHECKSUM: 11b230ccec1776e7ddfe31137aad9906197f7cd9
+
+COCOAPODS: 1.9.2
